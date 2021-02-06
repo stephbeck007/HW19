@@ -1,0 +1,530 @@
+/* screen - p2 */
+
+.arvo-normal-iceberg-18px {
+  color: var(--iceberg);
+  font-family: 'Arvo', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arvo-normal-white-18px {
+  color: var(--white);
+  font-family: 'Arvo', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.p2 {
+  background-color: var(--iceberg);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2136px;
+  min-width: 1440px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.p2 .apple-i-ph-max-silver-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/apple-iphone-11-pro-max-silver@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 441px;
+  left: 1078px;
+  position: absolute;
+  top: 1547px;
+  width: 225px;
+}
+.p2 .apple-macb-15-silver-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/apple-macbook-pro-15--silver@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 337px;
+  left: 441px;
+  position: absolute;
+  top: 1588px;
+  width: 544px;
+}
+.p2 .case-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Arvo', Helvetica, Arial, serif;
+  font-size: 105.2px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 993px;
+  letter-spacing: 0.00px;
+  line-height: 78.7px;
+  position: absolute;
+  text-align: right;
+  top: 1368px;
+  white-space: nowrap;
+  width: 387px;
+}
+.p2 .contact-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1321px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 39px;
+  width: auto;
+}
+.p2 .create-an-account-cO6xK0 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 7.9px;
+  font-style: normal;
+  font-weight: 400;
+  height: 10px;
+  left: 78px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 272px;
+  width: 73px;
+}
+.p2 .creative-g--in-uiu-xt-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Arvo', Helvetica, Arial, serif;
+  font-size: 19.1px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: 38.2px;
+  position: absolute;
+  text-align: left;
+  top: 1016px;
+  width: 708px;
+}
+.p2 .entypoold-phone-C61RwL {
+  background-color: transparent;
+  height: 48px;
+  left: 1240px;
+  overflow: hidden;
+  position: absolute;
+  top: 2061px;
+  width: 54px;
+}
+.p2 .group-396-C61RwL {
+  background-color: transparent;
+  height: 31.09%;
+  left: -18.82%;
+  position: absolute;
+  top: 36.05%;
+  width: 125.63%;
+}
+.p2 .group-8-C61RwL {
+  background-color: transparent;
+  height: 2.01%;
+  left: 3.75%;
+  position: absolute;
+  top: 1.54%;
+  width: 2.92%;
+}
+.p2 .home-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 836px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 39px;
+  width: auto;
+}
+.p2 .home-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2076px;
+  width: 58px;
+}
+.p2 .im-a-uiux-designer-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Arvo', Helvetica, Arial, serif;
+  font-size: 39px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 383px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 525px;
+  width: 401px;
+}
+.p2 .is-me-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Arvo', Helvetica, Arial, serif;
+  font-size: 105.6px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 265px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 789px;
+  width: 320px;
+}
+.p2 .mdiemail-C61RwL {
+  background-color: transparent;
+  height: 55px;
+  left: 1150px;
+  overflow: hidden;
+  position: absolute;
+  top: 2057px;
+  width: 62px;
+}
+.p2 .my-name-is-nie-jensen-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Arvo', Helvetica, Arial, serif;
+  font-size: 47.5px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 105px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 475px;
+  width: 682px;
+}
+.p2 .my-work-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1151px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 39px;
+  width: auto;
+}
+.p2 .my-work-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 355px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2076px;
+  width: 89px;
+}
+.p2 .portfolio-C61RwL {
+  background-color: transparent;
+  color: var(--iceberg);
+  font-family: 'Arvo', Helvetica, Arial, serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 105px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  width: auto;
+}
+.p2 .puddle-jumper-cO6xK0 {
+  background-color: transparent;
+  height: 25px;
+  left: 41px;
+  position: absolute;
+  top: 128px;
+  width: 156px;
+}
+.p2 .puddle-jumper-logo-1-cO6xK0 {
+  background-color: transparent;
+  height: 84px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 157px;
+  width: 84px;
+}
+.p2 .rectangle-1-C61RwL {
+  background-color: var(--black-2);
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1439px;
+}
+.p2 .rectangle-1-cO6xK0 {
+  background-color: var(--white);
+  height: 358px;
+  left: 22px;
+  position: absolute;
+  top: 46px;
+  width: 183px;
+}
+.p2 .rectangle-10-C61RwL {
+  background-color: var(--black-2);
+  border: 1.0px solid var(--black);
+  height: 615px;
+  left: -13px;
+  position: absolute;
+  top: 1426px;
+  width: 1466px;
+}
+.p2 .rectangle-109-cO6xK0 {
+  background-color: transparent;
+  height: 359px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 183px;
+}
+.p2 .rectangle-110-cO6xK0 {
+  background-color: rgba(156,176,170,1.0);
+  height: 21px;
+  left: 22px;
+  position: absolute;
+  top: 245px;
+  width: 182px;
+}
+.p2 .rectangle-111-cO6xK0 {
+  background-color: rgba(255,249,249,1.0);
+  height: 21px;
+  left: 22px;
+  position: absolute;
+  top: 266px;
+  width: 182px;
+}
+.p2 .rectangle-16-C61RwL {
+  background-color: rgba(97,95,95,1.0);
+  height: 617px;
+  left: 0px;
+  position: absolute;
+  top: 820px;
+  width: 1440px;
+}
+.p2 .rectangle-3-C61RwL {
+  background-color: var(--black-2);
+  border: 1px solid var(--black);
+  height: 240px;
+  left: -1px;
+  position: absolute;
+  top: 99px;
+  width: 1440px;
+}
+.p2 .rectangle-4-C61RwL {
+  background-color: var(--viking);
+  height: 68px;
+  left: 368px;
+  position: absolute;
+  top: 512px;
+  width: 418px;
+}
+.p2 .rectangle-4-VMr6Om {
+  background-color: var(--viking);
+  height: 138px;
+  left: 756px;
+  position: absolute;
+  top: 1371px;
+  width: 683px;
+}
+.p2 .rectangle-5-C61RwL {
+  background-color: var(--viking);
+  height: 123px;
+  left: 0px;
+  position: absolute;
+  top: 763px;
+  width: 562px;
+}
+.p2 .rectangle-9-C61RwL {
+  background-color: var(--black);
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 2036px;
+  width: 1441px;
+}
+.p2 .resume-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 985px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 39px;
+  width: auto;
+}
+.p2 .resume-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2076px;
+  width: 75px;
+}
+.p2 .screen-sho--at-1123-1-C61RwL {
+  background-color: transparent;
+  height: 443px;
+  left: 133px;
+  object-fit: cover;
+  position: absolute;
+  top: 1535px;
+  width: 222px;
+}
+.p2 .screen-sho--at-1127-1-Ci5Pp4 {
+  background-color: transparent;
+  height: 249px;
+  left: 114px;
+  object-fit: cover;
+  position: absolute;
+  top: 44px;
+  width: 316px;
+}
+.p2 .screen-sho-6-at-610-1-C61RwL {
+  background-color: transparent;
+  height: 644px;
+  left: 752px;
+  object-fit: cover;
+  position: absolute;
+  top: 339px;
+  width: 691px;
+}
+.p2 .sign-in-cO6xK0 {
+  background-color: transparent;
+  color: rgba(255,252,252,1.0);
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 7.9px;
+  font-style: normal;
+  font-weight: 700;
+  height: 10px;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 250px;
+  width: 29px;
+}
+.p2 .studies-C61RwL {
+  background-color: transparent;
+  color: rgba(255,252,252,1.0);
+  font-family: 'Arvo', Helvetica, Arial, serif;
+  font-size: 105.2px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 863px;
+  letter-spacing: 0.00px;
+  line-height: 78.7px;
+  position: absolute;
+  text-align: right;
+  top: 1434px;
+  white-space: nowrap;
+  width: 391px;
+}
+.p2 .this-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Arvo', Helvetica, Arial, serif;
+  font-size: 105.6px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 729px;
+  width: 234px;
+}
+.p2 .uilinstagram-alt-C61RwL {
+  background-color: transparent;
+  height: 48px;
+  left: 1074px;
+  overflow: hidden;
+  position: absolute;
+  top: 2060px;
+  width: 47px;
+}
+.p2 .vector-3SuDvW {
+  background-color: transparent;
+  height: 40px;
+  left: -1px;
+  position: absolute;
+  top: 4px;
+  width: 55px;
+}
+.p2 .vector-Tx30cR {
+  background-color: transparent;
+  height: 40px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 40px;
+}
+.p2 .vector-dpU4XE {
+  background-color: transparent;
+  height: 38px;
+  left: 5px;
+  position: absolute;
+  top: 9px;
+  width: 53px;
+}
+.p2 .white-s-jlogo-C61RwL {
+  background-color: transparent;
+  height: 239px;
+  left: 226px;
+  object-fit: cover;
+  position: absolute;
+  top: 69px;
+  width: 987px;
+}
+.p2 .x1200px-med-monogram-1-C61RwL {
+  background-color: transparent;
+  height: 57px;
+  left: 1315px;
+  object-fit: cover;
+  position: absolute;
+  top: 2057px;
+  width: 71px;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --black-2: rgba(1,1,3,1.0);
+  --iceberg: rgba(222,241,246,1.0);
+  --viking: rgba(111,203,218,0.5);
+  --white: rgba(255,255,255,1.0);
+}
+.nav:hover {
+  text-decoration: underline;
+  }
+  
+  .big:hover {
+    transform: scale(1.1);
+  }
